@@ -1,0 +1,236 @@
+y)))))))"��□��□!aO#`@�)))))))-> Cero Inicial (C0,i - Media)     : 4200116.50
+-> Ruido Inicial (sigma0 - DesvStd): 161.58
+
+[CHECKPOINT 1]: Mostrar valores y osciloscopio a la docente.
+
+--- MODO BARRIDO (ETAPA D) ---
+Ingresa: <ciclo> <sentido: C/D> <Vj>  (ejemplo: 1 C 0.88)
+O comandos:
+  SET_VM 0.64       -> actualiza Vm con el agua
+  SET_PATM 101.1    -> actualiza Patm
+  CERO_FINAL        -> mide C0,f al terminar la sesión
+-------------------------------------------------------------
+FORMATO CSV: ciclo,sentido,Vj_mL,Pref_kPa,media_cuentas,desvStd,N
+-------------------------------------------------------------
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+
+========================================================
+  UNMSM - FIEE - TALLER DE EQUIPOS BIOMÉDICOS II       
+  LAB 2: Caracterización MPS20N0040D-D con HX710B       
+========================================================
+
+=========================================================
+         CONFIGURACIÓN Y MARCA DE PARADA SEGURA          
+=========================================================
+Patm (Presión Atmosférica)  : 101.325 kPa
+V0 (Volumen Inicial Jeringa): 1.00 mL
+Vm (Volumen Muerto Medido)  : 0.620 mL
+Pmax de seguridad           : 35.0 kPa
+---------------------------------------------------------
+>>> MARCA DE PARADA (Vj_min): 0.584 mL <<<
+(!) NUNCA comprimir por debajo de este volumen.
+=========================================================
+
+
+--- ETAPA A: CARACTERIZACIÓN DE CERO Y RUIDO ---
+Sensor abierto al aire (presión manométrica 0).
+Midiendo 20 lecturas...
+-> Cero Inicial (C0,i - Media)     : 4200338.00
+-> Ruido Inicial (sigma0 - DesvStd): 101.03
+
+[CHECKPOINT 1]: Mostrar valores y osciloscopio a la docente.
+
+--- MODO BARRIDO (ETAPA D) ---
+Ingresa: <ciclo> <sentido: C/D> <Vj>  (ejemplo: 1 C 0.88)
+O comandos:
+  SET_VM 0.64       -> actualiza Vm con el agua
+  SET_PATM 101.1    -> actualiza Patm
+  CERO_FINAL        -> mide C0,f al terminar la sesión
+-------------------------------------------------------------
+FORMATO CSV: ciclo,sentido,Vj_mL,Pref_kPa,media_cuentas,desvStd,N
+-------------------------------------------------------------
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+
+========================================================
+  UNMSM - FIEE - TALLER DE EQUIPOS BIOMÉDICOS II       
+  LAB 2: Caracterización MPS20N0040D-D con HX710B       
+========================================================
+
+=========================================================
+         CONFIGURACIÓN Y MARCA DE PARADA SEGURA          
+=========================================================
+Patm (Presión Atmosférica)  : 101.325 kPa
+V0 (Volumen Inicial Jeringa): 1.00 mL
+Vm (Volumen Muerto Medido)  : 0.620 mL
+Pmax de seguridad           : 35.0 kPa
+---------------------------------------------------------
+>>> MARCA DE PARADA (Vj_min): 0.584 mL <<<
+(!) NUNCA comprimir por debajo de este volumen.
+=========================================================
+
+
+--- ETAPA A: CARACTERIZACIÓN DE CERO Y RUIDO ---
+Sensor abierto al aire (presión manométrica 0).
+Midiendo 20 lecturas...
+-> Cero Inicial (C0,i - Media)     : 4201191.50
+-> Ruido Inicial (sigma0 - DesvStd): 113.42
+
+[CHECKPOINT 1]: Mostrar valores y osciloscopio a la docente.
+
+--- MODO BARRIDO (ETAPA D) ---
+Ingresa: <ciclo> <sentido: C/D> <Vj>  (ejemplo: 1 C 0.88)
+O comandos:
+  SET_VM 0.64       -> actualiza Vm con el agua
+  SET_PATM 101.1    -> actualiza Patm
+  CERO_FINAL        -> mide C0,f al terminar la sesión
+-------------------------------------------------------------
+FORMATO CSV: ciclo,sentido,Vj_mL,Pref_kPa,media_cuentas,desvStd,N
+-------------------------------------------------------------
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+1,C,1.00,0.000,0.00,0.00,20
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+[ALERTA] Timeout: HX710B no responde. Revisa conexiones.
+1,C,1.00,0.000,0.00,0.00,20
+1,C,1.00,0.000,4202205.50,114.25,20
+1,C,1.00,0.000,4203902.00,114.20,20
+1,C,1.00,0.000,4204972.00,130.16,20
+1,C,1.00,0.000,4206342.00,67.66,20
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+
+========================================================
+  UNMSM - FIEE - TALLER DE EQUIPOS BIOMÉDICOS II       
+  LAB 2: Caracterización MPS20N0040D-D con HX710B       
+========================================================
+
+=========================================================
+         CONFIGURACIÓN Y MARCA DE PARADA SEGURA          
+=========================================================
+Patm (Presión Atmosférica)  : 101.325 kPa
+V0 (Volumen Inicial Jeringa): 1.00 mL
+Vm (Volumen Muerto Medido)  : 0.620 mL
+Pmax de seguridad           : 35.0 kPa
+---------------------------------------------------------
+>>> MARCA DE PARADA (Vj_min): 0.584 mL <<<
+(!) NUNCA comprimir por debajo de este volumen.
+=========================================================
+
+
+--- ETAPA A: CARACTERIZACIÓN DE CERO Y RUIDO ---
+Sensor abierto al aire (presión manométrica 0).
+Midiendo 20 lecturas...
+-> Cero Inicial (C0,i - Media)     : 4198838.50
+-> Ruido Inicial (sigma0 - DesvStd): 1127.13
+
+[CHECKPOINT 1]: Mostrar valores y osciloscopio a la docente.
+
+--- MODO BARRIDO (ETAPA D) ---
+Ingresa: <ciclo> <sentido: C/D> <Vj>  (ejemplo: 1 C 0.88)
+O comandos:
+  SET_VM 0.64       -> actualiza Vm con el agua
+  SET_PATM 101.1    -> actualiza Patm
+  CERO_FINAL        -> mide C0,f al terminar la sesión
+-------------------------------------------------------------
+FORMATO CSV: ciclo,sentido,Vj_mL,Pref_kPa,media_cuentas,desvStd,N
+-------------------------------------------------------------
+[OK] Vm actualizado: 0.840
+
+=========================================================
+         CONFIGURACIÓN Y MARCA DE PARADA SEGURA          
+=========================================================
+Patm (Presión Atmosférica)  : 101.325 kPa
+V0 (Volumen Inicial Jeringa): 1.00 mL
+Vm (Volumen Muerto Medido)  : 0.840 mL
+Pmax de seguridad           : 35.0 kPa
+---------------------------------------------------------
+>>> MARCA DE PARADA (Vj_min): 0.528 mL <<<
+(!) NUNCA comprimir por debajo de este volumen.
+=========================================================
+
+1,C,1.00,0.000,4213656.00,667.82,20
+1,C,0.94,3.415,4209589.50,354.26,20
+1,C,0.88,7.069,4209414.50,432.30,20
+1,C,0.82,10.987,4207307.00,426.95,20
+1,C,0.76,15.199,4207134.50,555.81,20
+1,C,0.70,19.739,4207228.00,206.70,20
+1,C,0.64,24.647,4206981.00,667.38,20
+1,C,0.58,29.969,4206622.00,737.27,20
+1,D,0.64,24.647,4207989.50,737.32,20
+1,D,0.70,19.739,4208567.50,357.13,20
+1,D,0.76,15.199,4203706.50,3117.80,20
+1,D,0.82,10.987,4206192.00,105.81,20
+1,D,0.88,7.069,4205891.00,175.90,20
+1,D,0.94,3.415,4206370.50,286.20,20
+1,D,1.00,0.000,4206374.00,410.13,20
+
+--- MIDIENDO CERO FINAL (C0,f) ---
+-> Cero Final (C0,f - Media)      : 4208914.00
+-> Ruido Final (sigma0,f - DesvStd): 267.22
+-> Deriva de Offset (C0,f - C0,i) : 10075.50
+[CHECKPOINT 4]: Listo para presentar.
